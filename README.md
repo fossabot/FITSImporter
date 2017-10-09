@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FFITSImporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FFITSImporter?ref=badge_shield)
+
 <h3 align="center">
 	<img src="http://onekilopars.ec/s/1kpcAstroComponents.png" width="100%" />
 </h3>
@@ -96,3 +98,7 @@ LICENSE & NOTES
 FITSImporter is licensed under the MIT license and hosted on GitHub at https://github.com/onekiloparsec/FITSImporter/ Fork the project and feel free to send pull requests with your changes!
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FFITSImporter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FFITSImporter?ref=badge_large)
